@@ -47,7 +47,7 @@ Source: Netflix Movies and TV Shows Dataset
 Columns include:
 show_id, type, title, director, cast, country, date_added, release_year, rating, duration, listed_in, description
 
-##🔍 Analysis Performed
+🔍 Analysis Performed
 
 1️⃣ Content Type Distribution
 Percentage of Movies vs TV Shows
@@ -78,12 +78,12 @@ Genre Word Cloud
 Release Year Trendline
 Country-wise Bar Graph
 
-##🧠 Skills Demonstrated
+## 🧠 Skills Demonstrated
 
-#Data Cleaning & Wrangling
-#Exploratory Data Analysis
-#Data Visualization
-#Feature Engineering
-#Dashboard Development
-#Python Programming
-#End-to-End Data Analytics Workflow
+# Data Cleaning & Wrangling
+# Exploratory Data Analysis
+# Data Visualization
+# Feature Engineering
+# Dashboard Development
+# Python Programming
+# End-to-End Data Analytics Workflow
