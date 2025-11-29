@@ -23,22 +23,22 @@ Jupyter Notebook
 Streamlit (for web app)
 
 ## 📂 Project Structure
-NETFLIX-MOVIE-TVSHOW-ANALYTICS/
-│── .vscode/
-│      └── settings.json
-│
-│── netflix-analytics/
-│      ├── __pycache__/
-│      ├── pages/
-│      │      ├── about.py
-│      │      ├── dashboard.py
-│      │      ├── home.py
-│      │      └── insights.py
-│
-│── app.py                 # Main Streamlit App (Entry Point)
-│── netflix_titles.csv     # Dataset
-│── README.md
-│── requirements.txt
+### NETFLIX-MOVIE-TVSHOW-ANALYTICS/
+###  │── .vscode/
+###  │      └── settings.json
+###  │
+###  │── netflix-analytics/
+###  │      ├── __pycache__/
+###  │      ├── pages/
+###  │      │      ├── about.py
+###  │      │      ├── dashboard.py
+###  │      │      ├── home.py
+###  │      │      └── insights.py
+###  │
+###  │── app.py                 # Main Streamlit App (Entry Point)
+###  │── netflix_titles.csv     # Dataset
+###  │── README.md
+###  │── requirements.txt
 
 
 ## 📘 Dataset
@@ -80,10 +80,10 @@ Country-wise Bar Graph
 
 ##🧠 Skills Demonstrated
 
-Data Cleaning & Wrangling
-Exploratory Data Analysis
-Data Visualization
-Feature Engineering
-Dashboard Development
-Python Programming
-End-to-End Data Analytics Workflow
+#Data Cleaning & Wrangling
+#Exploratory Data Analysis
+#Data Visualization
+#Feature Engineering
+#Dashboard Development
+#Python Programming
+#End-to-End Data Analytics Workflow
