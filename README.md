@@ -79,11 +79,11 @@ Collaboration networks (optional)
 
 ## 📊 Sample Visuals
 
-Include images like:
-Movies vs TV Shows Pie Chart
-Genre Word Cloud
-Release Year Trendline
-Country-wise Bar Graph
+Include images like:--
+Movies vs TV Shows Pie Chart,
+Genre Word Cloud,
+Release Year Trendline,
+Country-wise Bar Graph.
 
 ## 🧠 Skills Demonstrated
 
