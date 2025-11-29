@@ -80,10 +80,9 @@ Country-wise Bar Graph
 
 ## 🧠 Skills Demonstrated
 
-# Data Cleaning & Wrangling
-# Exploratory Data Analysis
-# Data Visualization
-# Feature Engineering
-# Dashboard Development
-# Python Programming
-# End-to-End Data Analytics Workflow
+1️⃣ Data Cleaning & Wrangling
+2️⃣ Exploratory Data Analysis
+3️⃣ Data Visualization
+4️⃣ Feature Engineering, Dashboard Development
+5️⃣ Python Programming
+6️⃣ End-to-End Data Analytics Workflow
