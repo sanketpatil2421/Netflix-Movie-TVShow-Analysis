@@ -1,12 +1,19 @@
 #  🚀Features
 
 ✔️ Cleaned and processed Netflix dataset
+
 ✔️ Exploratory Data Analysis (EDA) with visual insights
+
 ✔️ Genre & Rating distribution analysis
+
 ✔️ Country-wise content trends
+
 ✔️ Year-wise release analysis
+
 ✔️ Most frequent actors, directors, and categories
+
 ✔️ Beautiful visual dashboards (Matplotlib / Seaborn / Plotly)
+
 ✔️ Interactive web app (Streamlit) (optional)   
 
 
@@ -81,8 +88,13 @@ Country-wise Bar Graph
 ## 🧠 Skills Demonstrated
 
 1️⃣ Data Cleaning & Wrangling
+
 2️⃣ Exploratory Data Analysis
+
 3️⃣ Data Visualization
+
 4️⃣ Feature Engineering, Dashboard Development
+
 5️⃣ Python Programming
+
 6️⃣ End-to-End Data Analytics Workflow
