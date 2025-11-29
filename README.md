@@ -7,7 +7,7 @@
 ✔️ Year-wise release analysis
 ✔️ Most frequent actors, directors, and categories
 ✔️ Beautiful visual dashboards (Matplotlib / Seaborn / Plotly)
-✔️ Interactive web app (Streamlit) (optional)
+✔️ Interactive web app (Streamlit) (optional)   
 
 
 # ▶️ Installation & Run Instructions
